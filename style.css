@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Handlee', cursive;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+}
+
+.green {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: inline-block;
+}
+
+.pink {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    display: inline-block;
+}
